@@ -1,0 +1,30 @@
+# ===== Unreal Engine 生成文件（可重新生成，不纳入版本控制）=====
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# ===== 原始素材源文件（FBX 等，用于重定向，不放进 Content）=====
+RawSource/
+
+# ===== 第三方素材包（体积大，同事请自行从商店获取，详见 README）=====
+Content/Materials_CeramicTiles/
+Content/SM_Concrete_07/
+Content/MeshRift_CW_MaterialPackSample/
+Content/50+FreeAssetPack/
+Content/Rifle_01/
+
+# ===== Tripo 导入临时文件（单文件 256MB，非正式资产）=====
+Content/医疗研究所/临时文件夹/
+
+# ===== 系统与编辑器杂项 =====
+Thumbs.db
+.DS_Store
+*.log
